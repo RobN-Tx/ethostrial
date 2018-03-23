@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knownUsers>
+<user>0ed5ec84-f5f4-4ad3-9bf7-e38e065bb409
+	<sub>0ed5ec84-f5f4-4ad3-9bf7-e38e065bb409</sub>
+	<aud>b8a7e1a2-c9bc-4c00-b777-652fb0343873</aud>
+	<oid>0ed5ec84-f5f4-4ad3-9bf7-e38e065bb409</oid>
+	<family_name>wooooster</family_name>
+	<given_name>bertie</given_name>
+	<name>bdubs</name>
+	<country>United States</country>
+	<city>Htown</city>
+	<emails>eeltrmd@gmail.com</emails>
+	<extension_Company>PCM</extension_Company>
+	<extension_Site>Monterrey</extension_Site>
+	<iconenable>yes</iconenable>
+	<iconadmin>yes</iconadmin>
+	<username>fs</username>
+	<password>Pa55word</password>
+</user>
+<user>1b910a7f-189c-445b-9bf8-9508ae0de4a2
+	<exp>1490834406</exp>
+	<nbf>1490830806</nbf>
+	<ver>1.0</ver>
+	<iss>https://login.microsoftonline.com/4d23ebf0-75c2-40cb-a8a1-cc2c9078a21a/v2.0/</iss>
+	<sub>1b910a7f-189c-445b-9bf8-9508ae0de4a2</sub>
+	<aud>b8a7e1a2-c9bc-4c00-b777-652fb0343873</aud>
+	<nonce>defaultNonce</nonce>
+	<iat>1490830806</iat>
+	<auth_time>1490830806</auth_time>
+	<oid>1b910a7f-189c-445b-9bf8-9508ae0de4a2</oid>
+	<emails>dubaibert@me.com</emails>
+	<family_name>Nelson</family_name>
+	<streetAddress>1709 Cushing</streetAddress>
+	<state>Tx</state>
+	<postalCode>77019</postalCode>
+	<jobTitle>Technical Application Manager</jobTitle>
+	<given_name>Rob</given_name>
+	<name>Rob</name>
+	<country>United States</country>
+	<extension_Company>PCM</extension_Company>
+	<extension_Site>Monterrey</extension_Site>
+	<city>Houston</city>
+	<tfp>B2C_1_b2ctrial-sign-up</tfp>
+	<iconenable>yes</iconenable>
+	<iconadmin>no</iconadmin>
+	<username>fs</username>
+	<password>Pa55word</password>
+</user>
+<user>fd830a03-6586-4479-aa6c-b74b72a1aa62<exp>1491228088</exp><nbf>1491224488</nbf><ver>1.0</ver><iss>https://login.microsoftonline.com/4d23ebf0-75c2-40cb-a8a1-cc2c9078a21a/v2.0/</iss><sub>fd830a03-6586-4479-aa6c-b74b72a1aa62</sub><aud>b8a7e1a2-c9bc-4c00-b777-652fb0343873</aud><nonce>91234</nonce><iat>1491224488</iat><auth_time>1491224488</auth_time><oid>fd830a03-6586-4479-aa6c-b74b72a1aa62</oid><family_name>Nelson</family_name><given_name>Robert</given_name><name>Rob</name><country>United States</country><city>Houston</city><streetAddress>6225A</streetAddress><state>TX</state><postalCode>77041</postalCode><jobTitle>Technical Applications Manager</jobTitle><emails>robert.nelson@ethosenergygroup.com</emails><tfp>B2C_1_trialb2csignup-in</tfp><iconenable>yes</iconenable>
+	<extension_Company>PCM</extension_Company>
+	<extension_Site>Monterrey</extension_Site>
+<username>fs</username>
+<password>Pa55word</password>
+</user>
+<user>e85c6b9b-f37d-4d1d-9c2d-f1dc96e7425f<oid>e85c6b9b-f37d-4d1d-9c2d-f1dc96e7425f</oid><family_name>Barron</family_name><given_name>Matt</given_name><name>Mattybopp</name><country>United States</country><city>Houston</city><streetAddress>6225a</streetAddress><state>tx</state><postalCode>77041</postalCode><jobTitle>Sales Manager</jobTitle><emails>robert.nelson@ethosenergygroup.com</emails>
+<iconenable>yes</iconenable>
+<iconadmin>no</iconadmin>
+<username>fs</username>
+<password>Pa55word</password>
+</user>
+<user>40c7dc55-eeb5-4a1f-9c87-8e006320a305
+<sub>40c7dc55-eeb5-4a1f-9c87-8e006320a305</sub>
+<aud>b8a7e1a2-c9bc-4c00-b777-652fb0343873</aud>
+<oid>40c7dc55-eeb5-4a1f-9c87-8e006320a305</oid>
+<family_name>Fisher</family_name>
+<given_name>Mike</given_name>
+<name>Mike</name>
+<country>United States</country>
+<city>Houston</city>
+<streetAddress>309 Avondale</streetAddress>
+<state>Texas</state>
+<postalCode>77006</postalCode>
+<jobTitle>President</jobTitle>
+<emails>mike@yachtcations.com</emails>
+<extension_Company>PCM</extension_Company>
+<extension_Site>Monterrey</extension_Site>
+<iconenable>yes</iconenable>
+<iconadmin>no</iconadmin>
+<username>fs</username>
+<password>Pa55word</password>
+</user>
+</knownUsers>

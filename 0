@@ -1,0 +1,198 @@
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:30 UTC] 9000
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:30 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 50
+[12-Nov-2017 05:06:30 UTC] PHP Notice:  Undefined index: oid in C:\ethosicon\wwwroot\notregistered.php on line 56
+[12-Nov-2017 05:06:30 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 69
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\logout.php on line 5
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\logout.php on line 5
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\ethosicon\wwwroot\logout.php on line 11
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:41 UTC] 9000
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:41 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 50
+[12-Nov-2017 05:06:41 UTC] PHP Notice:  Undefined index: oid in C:\ethosicon\wwwroot\notregistered.php on line 56
+[12-Nov-2017 05:06:41 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 69
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:06:57 UTC] 9000
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:06:57 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 50
+[12-Nov-2017 05:06:57 UTC] PHP Notice:  Undefined index: oid in C:\ethosicon\wwwroot\notregistered.php on line 56
+[12-Nov-2017 05:06:57 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 69
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:35 UTC] 9000
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.;C:\php\pear') in C:\ethosicon\wwwroot\notregistered.php on line 4
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:08:35 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\notregistered.php on line 5
+[12-Nov-2017 05:08:35 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 50
+[12-Nov-2017 05:08:35 UTC] PHP Notice:  Undefined index: oid in C:\ethosicon\wwwroot\notregistered.php on line 56
+[12-Nov-2017 05:08:35 UTC] PHP Notice:  Undefined index: name in C:\ethosicon\wwwroot\notregistered.php on line 69
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\logout.php on line 5
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\logout.php on line 5
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\ethosicon\wwwroot\logout.php on line 11
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\iisstart.php on line 8
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\public\header.php on line 6
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\libs\user_class.php on line 14
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:47 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:08:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:08:47 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:08:47 UTC] 9000
+[12-Nov-2017 05:10:14 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:14 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:14 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:14 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:14 UTC] 9000
+[12-Nov-2017 05:10:23 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:23 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:23 UTC] 9000
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:25 UTC] 9000
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:25 UTC] 9000
+[12-Nov-2017 05:10:37 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:37 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:37 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:37 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:37 UTC] 9000
+[12-Nov-2017 05:10:48 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:10:48 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:10:48 UTC] 9000
+[12-Nov-2017 05:11:01 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:01 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:01 UTC] 9000
+[12-Nov-2017 05:11:17 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:17 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:17 UTC] 9000
+[12-Nov-2017 05:11:23 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:11:23 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:11:23 UTC] 9000
+[12-Nov-2017 05:12:06 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:06 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:06 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:06 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:06 UTC] 9000
+[12-Nov-2017 05:12:13 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:13 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:13 UTC] 9000
+[12-Nov-2017 05:12:18 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:18 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:18 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:18 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:18 UTC] 9000
+[12-Nov-2017 05:12:26 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:26 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:26 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:26 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:26 UTC] 9000
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:27 UTC] 9000
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:27 UTC] 9000
+[12-Nov-2017 05:12:34 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:34 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:34 UTC] 9000
+[12-Nov-2017 05:12:39 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:39 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:39 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:39 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:39 UTC] 9000
+[12-Nov-2017 05:12:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:43 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:43 UTC] 9000
+[12-Nov-2017 05:12:44 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:44 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:12:44 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:44 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:12:44 UTC] 9000
+[12-Nov-2017 05:13:21 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:21 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:21 UTC] 9000
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:22 UTC] 9000
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:22 UTC] 9000
+[12-Nov-2017 05:13:32 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\return.php on line 6
+[12-Nov-2017 05:13:32 UTC] PHP Warning:  session_start(): open(C:\Windows\TEMP\sess_f4b9pcjvb18jt2sv0728aeehq6, O_RDWR) failed: Permission denied (13) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\ethosicon\wwwroot\sql\sqlFunctions.php on line 4
+[12-Nov-2017 05:13:32 UTC] 9000

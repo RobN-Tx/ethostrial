@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<customerscreens>
+<numberOfUnits>2</numberOfUnits>
+<allunits>
+	<screen name="PCM Home">ethosicon.info/Coresight/#/Displays/12/PCM-Home2?</screen>
+</allunits>
+<unit name="Taurus 60">
+	<screen name="Taurus 60 Home">ethosicon.info/Coresight/#/Displays/3/PCM-Taurus?</screen>
+	<screen name="Taurus 60 Vibration">ethosicon.info/Coresight/#/Displays/8/Pcm-Taurus-Vibration?</screen>
+</unit>
+<unit name="Mars 100">
+	<screen name="Mars 100 Home">ethosicon.info/Coresight/#/Displays/5/PCM-Mars?</screen>
+	<screen name="Mars Lube Oil">ethosicon.info/coresight/#/Displays/13/PCM-Mars-Lube-Oil?</screen>
+</unit>
+</customerscreens>
